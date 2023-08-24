@@ -1,2 +1,1 @@
-# C-162
-3D Bowling Stage 2
+# PRO-C162-Project-Solution
